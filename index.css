@@ -14,7 +14,7 @@
 }
 
 #texto {
-    font-family: "Playwrite NO", cursive, Arial, sans-serif; /* Se a Playwrite falhar, ele usa Arial */
+    font-family: "Playwrite NO", cursive, Arial, sans-serif;
     font-size: 8rem; 
     color: black;
 }
