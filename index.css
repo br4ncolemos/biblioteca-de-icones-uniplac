@@ -13,12 +13,6 @@
     flex-direction: column
 }
 
-#texto {
-    font-family: "Playwrite NO", cursive, Arial, sans-serif;
-    font-size: 8rem; 
-    color: black;
-}
-
 #loginPai {
     display: flex;
     justify-content: center;
